@@ -1,0 +1,2 @@
+# GameDB-WonderSwan
+Bandai WonderSwan
