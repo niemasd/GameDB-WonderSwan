@@ -1,1 +1,1 @@
-LNPUT (World) (Ja) (WonderWitch) (Unl).ws
+LNPUT (World) (Ja) (WonderWitch) (Unl)
